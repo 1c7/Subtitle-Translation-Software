@@ -27,8 +27,8 @@
 ## 补充说明
 有意见建议，欢迎开新 Issue 
 
-### 字幕文件的格式
-字幕文件最常见2种格式 `.srt` 和 `.ass`
+### 字幕文件格式
+最常见的格式有两种:  `.srt` 和 `.ass`  
 
 * `.srt` 是最简单的格式，其中只有行数，时间(字幕的出现时间和消失时间), 以及字幕本身
 
@@ -77,7 +77,7 @@ Dialogue: 0,0:00:03.12,0:00:06.04,中文黄,,0,0,0,,Hi, I'm Carrie Anne, and wel
 Dialogue: 0,0:00:06.04,0:00:08.21,Default,,0,0,0,,We're here: the final episode!
 ```
 
-### 关于字幕组
-字幕组名：[Crash Course 字幕组](https://www.bilibili.com/video/av21376839/)   
-近期作品： [计算机速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)  
-QQ 群： 305631757  
+### 关于
+本库创建者是 [Crash Course 字幕组](https://www.bilibili.com/video/av21376839/) 的 @糖醋陈皮       
+字幕组近期作品： [计算机速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)  
+Q 群： 305631757  
