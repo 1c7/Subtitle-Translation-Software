@@ -1,9 +1,8 @@
 # 字幕翻译软件列表  
-让行外人了解字幕工作者使用什么软件。         
-搜了下发现 Github 上没有这样的表，简单建一个。  
+目的：让行外人了解字幕工作者使用什么软件    
 
-本库创建者是 [Crash Course 字幕组](https://www.bilibili.com/video/av21376839/) 的 @糖醋陈皮    
-字幕组近期作品: [计算机速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
+![B站截图](./images/img.jpg)
+
 
 字幕翻译共2步：翻译 -> 压制       
 (非要再加一步的话，就是把视频传到 B 站)    
@@ -26,6 +25,7 @@
 点击"开始压制"按钮，取决于机器性能，10分钟的视频(1080p约占空间100~200MB) 一般压制5到15分钟即可
 
 ## 补充说明
+有意见建议，欢迎开新 Issue 
 
 ### 字幕文件的格式
 字幕文件最常见2种格式 `.srt` 和 `.ass`
@@ -78,4 +78,6 @@ Dialogue: 0,0:00:06.04,0:00:08.21,Default,,0,0,0,,We're here: the final episode!
 ```
 
 ### 关于字幕组
-Crash Course 字幕组 QQ 群 305631757
+字幕组名：[Crash Course 字幕组](https://www.bilibili.com/video/av21376839/)   
+近期作品： [计算机速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)  
+QQ 群： 305631757  
