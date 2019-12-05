@@ -1,7 +1,9 @@
 # 字幕翻译软件列表  
 让行外人了解字幕工作者使用什么软件。         
-搜了下发现 Github 上没有这样的表，简单建一个。       
+搜了下发现 Github 上没有这样的表，简单建一个。  
+
 本库创建者是 [Crash Course 字幕组](https://www.bilibili.com/video/av21376839/) 的 @糖醋陈皮    
+字幕组近期作品: [计算机速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
 
 字幕翻译共2步：翻译 -> 压制       
 (非要再加一步的话，就是把视频传到 B 站)    
