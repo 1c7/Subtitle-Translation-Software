@@ -4,17 +4,24 @@
 本库创建者是 [Crash Course 字幕组](https://www.bilibili.com/video/av21376839/) 的 @糖醋陈皮    
 
 字幕翻译共2步：翻译 -> 压制       
-(最后一步当然就是上传到视频网站如B站了, 不过这一步不算)    
+(非要再加一步的话，就是把视频传到 B 站)    
 
 ## 翻译
 * [Aegisub](http://www.aegisub.org/)
 * [人人译视界](https://www.1sj.tv/)
 * [ArcTime](https://arctime.org/index.html)
 
+举例: 一个视频(`.mp4`) 加 一个字幕文件(`.ass`) 拖入 Aegisub 中.  
+在 Aegisub 中编辑时, 样式,字幕, 任何的修改, 都是改动了 `.ass` 文件, 视频本身不收任何影响.  
+翻译完成后, 两个文件依然是独立的.   
+为了把字幕和视频合二为一, 把字幕印到视频里, 需要使用压制软件
+
 ## 压制
 * [小丸工具箱 (Windows)](https://maruko.appinn.me/)
 * [PineconeSuppress (Mac)](https://apps.apple.com/cn/app/pineconesuppress/id1398134175?mt=12)
 
+举例：拖入 一个视频(`.mp4`) 加 一个字幕文件(`.ass`) 到 PineconeSuppress 中    
+点击"开始压制"按钮，取决于机器性能，10分钟的视频(1080p约占空间100~200MB) 一般压制5到15分钟即可
 
 ## 补充说明
 
@@ -69,3 +76,4 @@ Dialogue: 0,0:00:06.04,0:00:08.21,Default,,0,0,0,,We're here: the final episode!
 ```
 
 ### 关于字幕组
+Crash Course 字幕组 QQ 群 305631757
