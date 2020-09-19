@@ -20,8 +20,9 @@
 ## 压制
 * [小丸工具箱 (Windows)](https://maruko.appinn.me/)
 * [PineconeSuppress (Mac)](https://apps.apple.com/cn/app/pineconesuppress/id1398134175?mt=12)
+* FFmpeg：命令行工具
 
-举例：拖入 一个视频(`.mp4`) 加 一个字幕文件(`.ass`) 到 PineconeSuppress 中    
+举例如何压制：拖入 一个视频(`.mp4`) 加 一个字幕文件(`.ass`) 到 PineconeSuppress 中    
 点击"开始压制"按钮，取决于机器性能，10分钟的视频(1080p约占空间100~200MB) 一般压制5到15分钟即可
 
 ## 补充说明
@@ -76,6 +77,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.12,0:00:06.04,中文黄,,0,0,0,,Hi, I'm Carrie Anne, and welcome to Crash Course Computer Science!
 Dialogue: 0,0:00:06.04,0:00:08.21,Default,,0,0,0,,We're here: the final episode!
 ```
+
+还有一种格式叫 vtt, 长得和 srt 非常类似
 
 ### 关于
 本库创建者是 [Crash Course 字幕组](https://www.bilibili.com/video/av21376839/) 的 @糖醋陈皮       
