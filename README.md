@@ -11,6 +11,7 @@
 * [Aegisub](http://www.aegisub.org/)
 * [人人译视界](https://www.1sj.tv/)
 * [ArcTime](https://arctime.org/index.html)
+* 场辞
 
 举例: 一个视频(`.mp4`) 加 一个字幕文件(`.ass`) 拖入 Aegisub 中.  
 在 Aegisub 中编辑时, 样式,字幕, 任何的修改, 都是改动了 `.ass` 文件, 视频本身不受任何影响.  
